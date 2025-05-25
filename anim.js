@@ -23,10 +23,10 @@ var lyricsData = [
   { text: "lo que veo, lo que oigo,  lo que toco", time: 90 },
   { text: "quizas yo soy el loco", time: 95 },
   { text: "pero claro que me aterra sentir", time: 100 },
-  { text: "mas cuando siento", time: 105 },
-  { text: "que no te siento a ti", time: 110 },
+  { text: "", time: 105 },
+  { text: "que no te si", time: 110 },
   
-  { text: "TE QUIERO Y FELIZ SANVALENTIN  ELIZABETH.", time: 115 },
+  { text: "TE AMO DEMASIADO AMOR EN TAN POCO TIEMPO .", time: 115 },
 ];
 
 // Animar las letras
