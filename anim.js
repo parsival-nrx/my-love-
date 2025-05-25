@@ -22,7 +22,7 @@ var lyricsData = [
   { text: "cada vuelta en cada esquina", time: 85 },
   { text: "lo que veo, lo que oigo,  lo que toco", time: 90 },
   { text: "quizas yo soy el loco", time: 95 },
-  { text: "pero claro que me aterra sentir tantto en tampoco tiempo", time: 100 },
+  { text: "pero claro que me aterra sentir tanto en tampoco tiempo", time: 100 },
   { text: "pero siento que esta  vez me la juego", time: 105 },
   { text: "por ti ", time: 110 },
   
